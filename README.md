@@ -1,4 +1,5 @@
 [![ru](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Sergei%20Bakin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=55"/>
 <h1 align="center">Hi 👋, I'm Sergei Bakin</h1>
 <h3 align="center">Python Developer | Backend Engineer | Automation Enthusiast</h3>
 
