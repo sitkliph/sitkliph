@@ -8,8 +8,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Sergei%20Bakin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=55"/>
 
-## About Me
-
 I'm a Python Developer focused on backend development, API design, automation, and web applications.
 
 My journey into software development started with a simple curiosity about how modern web services work behind the scenes. Over time, that curiosity grew into a passion for creating scalable applications, optimizing business processes, and solving complex technical challenges.
@@ -79,12 +77,5 @@ What motivates me most is seeing how software can simplify people's work, save t
 <a href="https://github.com/YOUR_USERNAME">GitHub</a>
 </p>
 
-## Employment Status
 
-🟢 Open to Backend Developer opportunities
-
-Interested in:
-- Python Developer positions
-- Backend Developer roles
-- Web Development projects
-- Automation and Integration projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=footer&text=Employment%20Status&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Open%20to%20Backend%20Developer%20opportunities&descAlignY=70"/>
