@@ -1,4 +1,10 @@
-[![Russian](https://img.shields.io/badge/Переключиться_на-Русский-239120?style=for-the-badge&logo=googletranslate&logoColor=white)](README.ru.md)
+<div align="center">
+  <a href="README.ru.md">
+    <img src="https://img.shields.io/badge/Переключиться_на-Русский-239120?style=for-the-badge&logo=googletranslate&logoColor=white">
+  </a>
+</div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Sergei%20Bakin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=55"/>
 <h1 align="center">Hi 👋, I'm Sergei Bakin</h1>
