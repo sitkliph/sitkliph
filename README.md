@@ -62,20 +62,27 @@ What motivates me most is seeing how software can simplify people's work, save t
 - High Load Applications
 - Cloud Technologies
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitkliph&show_icons=true&theme=nord" />
-</div>
-
 ## Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank">Telegram</a> •
-<a href="mailto:your.email@example.com">Email</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<p align="center">
+  <a href="https://linkedin.com/in/sergei-bakin-7ba228374">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sergey.bakin2000@email.com">
+      <img src="https://cdn.simpleicons.org/gmail" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/sitkliph">
+    <img src="https://cdn.simpleicons.org/telegram" height="40">
+  </a>
 </p>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=footer&text=Employment%20Status&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Open%20to%20Backend%20Developer%20opportunities&descAlignY=70"/>
+<p>
+  <a>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sitkliph&show_icons=true&theme=nord">
+  </a>
+  <a>
+    <img width="65%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=footer&text=Employment%20Status&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Open%20to%20Backend%20Developer%20opportunities&descAlignY=70">
+    </a>
+</p>
