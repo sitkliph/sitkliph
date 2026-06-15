@@ -8,6 +8,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Sergei%20Bakin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=55"/>
 
+<div align="center">
+  <a href="#user-219423168-pinned-items-reorder-form">
+    <img src="https://img.shields.io/badge/Watch_my_projects-0F2027?style=for-the-badge&logo=github">
+  </a>
+</div>
+
+<br>
+
 I'm a Python Developer focused on backend development, API design, automation, and web applications.  
 My journey into software development started with a simple curiosity about how modern web services work behind the scenes. Over time, that curiosity grew into a passion for creating scalable applications, optimizing business processes, and solving complex technical challenges.  
 I enjoy transforming ideas into working products, learning new technologies, and continuously improving my engineering skills. My experience includes developing REST APIs, database design, automation tools, Telegram bots, and full-stack web applications.  
